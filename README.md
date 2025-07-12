@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/pulseflash_logo.png" alt="PulseFlash Logo" width="180" />
+</p>
+
+
 ## ✅ PulseFlash
 
 **Project Goal:** Companion app for WhatPulse (local Client API), focusing on **real-time stats in landscape mode** for power users, such as gamers and streamers.
